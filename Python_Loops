@@ -1,0 +1,52 @@
+Loop Control statements:
+
+Continue statement:
+it returns the control to the beginning of the loop.
+
+example:
+for in in "Python Loops":
+  if i == "P":
+    continue
+  print("Currenr Letter:", string)
+  
+output:
+y
+t
+h
+o
+n
+ 
+L
+o
+o
+p
+s
+
+
+Break statement:
+It stops the execution of the loop when the break statement is reached.
+example:
+for string in "Python Loops":
+  if string == "L":
+      break
+  print("Current Letter:", string)
+  
+output:
+p
+y
+t
+h
+o
+n
+
+
+Pass statements:
+Pass statements are used to create empty loops. 
+example:
+for a string in "Python Loops":
+  pass
+print('Last Letter:', String)
+
+output:
+Last Letter: s
+
