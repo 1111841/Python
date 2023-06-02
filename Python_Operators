@@ -1,0 +1,81 @@
+Python Operators:
+
+Operators is used to peroform operations between two operands.
+
+Types of operators in python:
+
+Airthmetic operators:
+
+Addition : (+)
+subtraction: (-)
+divide: (/) ---> return quotient
+Multiplication: (*)
+Remainder: (%) ---> returns the reminder
+Exponent: (**): ---> to calculate the power
+Floor Divison (//): ---> return quotient's floor value
+
+Floor value---> 8.3 return 8
+Ceil value ----> 8.3 return 9
+
+Comparison Operator:
+Equality: (==)
+not equal: (!=)
+less than equals to (<=)
+greater than equals to (>=)
+greater than (>)
+less than (<)
+
+Assignement operator:
+assigned value from right to left: (=)
+(+=)
+(-=)
+(*=)
+(%=)
+(**=)
+(//=)
+
+Bitwise Operator:
+binary and (&)
+binary or (|)
+binary xor (^)
+negation (~)
+left shift (<<)
+right shift (>>)
+
+Logical Operator:
+
+and operator:
+if both true then it's true
+
+or operator:
+if only one true then it's true
+
+not operator:
+if a expression id true then not(a) will be false
+
+Membership Operator:
+in operator
+not in operator
+
+
+Identity operator:
+is operator
+is not operator
+
+Operator Precedence:
+
+**
+~+-
+*/%//
++-
+>><<
+&
+^|
+<= <> >=
+<> == !=
+= %= /= //=
+-= +=
+*= **=
+is  isnot
+in not in
+not or and
